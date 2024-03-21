@@ -16,9 +16,3 @@ My skills aren't confined to just programming. I enjoy getting my hands on actua
 Expect to see a mix of projects showcasing my expertise in embedded systems, web development, and perhaps some interdisciplinary explorations where hardware and software collide. Feel free to explore, contribute, or drop me a message if you have any questions or ideas to discuss.
 
 Thanks for stopping by, and happy coding! 🚀
-
-<html>
-  <body>
-    <h1>hey</h1>
-  </body>
-</html>
