@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Chris, an Electrical Engineering student at th
 
 ## What I Do
 
-- 🛠️ **Embedded Systems**: My bread and butter! I thrive on programming embedded systems using C, C++, and sometimes Java and Python for the higher-level stuff.
+- 🛠️ **Embedded Systems**: My bread and butter! I thrive on programming embedded systems using C and C++, along with many microcontroller development tools. 
 - 🌐 **Full Stack Web Development**: I love crafting beautiful and functional web applications. You'll often find me tinkering with React, JavaScript, HTML, CSS, Bootstrap, MongoDB, and TailwindCSS to bring my ideas to life.
 
 ## Beyond Code
